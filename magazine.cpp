@@ -35,7 +35,7 @@ private:
     char city[21];
     unsigned count;
     Product* products;
-    unsigned* kolvo;  // <-- заменено quantities → kolvo
+    unsigned* kolvo;  
 
 public:
     Store(const char* n = "", const char* c = "", unsigned cnt = 0)
