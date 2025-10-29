@@ -1,0 +1,4 @@
+3
+Store1 Baku 2 Milk 10 Butter 5 
+Store2 Ganja 3 Bread 7 Butter 4 Milk 1
+Store1 Baku 1 Butter 3
